@@ -1,3 +1,5 @@
+![logo](https://github.com/ajaymudgade/AjayMudgade/blob/main/twitter%20cover.png)
+
 <h1 align="center">Hi 👋, I'm Ajay Mudgade</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
