@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajay_mudgade" target="blank"><img src="https://img.shields.io/twitter/follow/ajay_mudgade?logo=twitter&style=for-the-badge" alt="ajay_mudgade" /></a> </p>
 
-- 🔭 I’m currently working on [Urbanfit Store](https://urbanfitstore.com/)
+- 🔭 I’m currently working on [TrackerApp](https://urbanfitstore.com/)
 
 - 🌱 I’m currently learning **Android SDK, Kotlin, Spring Boot, Java**
 
